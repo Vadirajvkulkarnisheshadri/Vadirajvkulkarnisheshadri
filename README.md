@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 
 <h1 align="center">Hi 👋, I'm Vadiraj v kulkarni Sheshadri</h1>
-<h3 align="center">A passionate Front-end Developer and Mobile Android Developer from India, Karnataka</h3>
+<h3 align="center"> I Love to code and Solve Tech Problems also I'm Interested In Front-end Development and Mobile Android Development i'm from India, Karnataka</h3>
 <img align="right" alt="Coding" width="400"src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 
