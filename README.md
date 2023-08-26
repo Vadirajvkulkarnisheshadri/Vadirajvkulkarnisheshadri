@@ -10,19 +10,19 @@
 
 <p align="left"> <a href="https://twitter.com/vadiraj779561" target="blank"><img src="https://img.shields.io/twitter/follow/vadiraj779561?logo=twitter&style=for-the-badge" alt="vadiraj779561" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development, Web Full Stack , java, flutter**
+- 🌱 I’m currently learning **Web Full Stack, MERN AND MEAN Stack**
 
 - 👨‍💻 All of my projects are available at [vadirajvkulkarnisheshadri.github.io/project](vadirajvkulkarnisheshadri.github.io/project)
 
 - 📝 I regularly write articles on [vadirajvkulkarnisheshadri.github.io/Blog](vadirajvkulkarnisheshadri.github.io/Blog)
 
-- 💬 Ask me about **Android Development, Web Front-end, java**
+- 💬 Ask me about ** Web Front-end,**
 
 - 📫 How to reach me **Sheshadri.developer143@gmail.com**
 
 - 📄 Know about my experiences [vadirajvkulkarnisheshadri.github.io/Resume](vadirajvkulkarnisheshadri.github.io/Resume)
 
-- ⚡ Fun fact **I think i'm able to learn 720 Programming Languages with 2 years from Now?**
+- ⚡ Fun fact **I think I'm able to learn 720 Programming Languages within 2 years**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
